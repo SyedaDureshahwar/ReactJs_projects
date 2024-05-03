@@ -6,7 +6,7 @@ import busnessman  from "./busnessman.png"
 const Herosection = () => {
   return (
     <>
-    <div className='container-fluid bg-herosection'>
+    <div id="/" className='container-fluid bg-herosection'>
     <div className='container'>
         <div className='row pt-5'>
             <div className='col-md-5 left-ctn'>

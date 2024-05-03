@@ -3,7 +3,7 @@ import"./Faqs.css"
 const Faqs = () => {
   return (
     <>
-    <div className='container  mt-5 mb-5' >
+    <div id="porfolio"  className='container  mt-5 mb-5' >
         <div className='row mt-5 '>
             <h2 className='text-dark  text-center' style={{fontWeight:"bolder"}}>Improve Your Business <br></br> With Experience </h2>
 

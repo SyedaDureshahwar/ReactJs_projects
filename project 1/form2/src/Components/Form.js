@@ -61,11 +61,11 @@ console.log(data)
             <div class="row g-3">
   <div class="col-md-6 ">
     <label htmlFor="inputEmail4" class="form-label">Email</label>
-    <input type="email" value={uemail} onChange={(e)=>setuemail(e.target.value)}  class="form-control" id="inputEmail4"/>
+    <input placeholder='Email' type="email" value={uemail} onChange={(e)=>setuemail(e.target.value)}  class="form-control" id="inputEmail4"/>
   </div>
   <div class="col-md-6">
     <label htmlFor="inputPassword4" class="form-label">Password</label>
-    <input type="password" value={upass} onChange={(e)=>setupass(e.target.value)} class="form-control" id="inputPassword4"/>
+    <input type="password" placeholder='Password' value={upass} onChange={(e)=>setupass(e.target.value)} class="form-control" id="inputPassword4"/>
   </div>
   <div class="col-12">
     <label htmlFor="inputAddress" class="form-label">Address</label>
@@ -77,7 +77,7 @@ console.log(data)
   </div>
   <div class="col-md-6">
     <label htmlFor="inputCity" class="form-label">City</label>
-    <input type="text"  value={city} onChange={(e)=>setcity(e.target.value)}  class="form-control" id="inputCity"/>
+    <input type="text" placeholder='City' value={city} onChange={(e)=>setcity(e.target.value)}  class="form-control" id="inputCity"/>
   </div>
   <div class="col-md-4">
     <label htmlFor="inputState" class="form-label">State</label>
@@ -92,7 +92,7 @@ console.log(data)
   </div>
   <div class="col-md-2">
     <label htmlFor="inputZip" class="form-label">Zip</label>
-    <input type="text" value={Zip} onChange={(e)=>setZip(e.target.value)} class="form-control" id="inputZip"/>
+    <input type="text" placeholder='Zip' value={Zip} onChange={(e)=>setZip(e.target.value)} class="form-control" id="inputZip"/>
   </div>
   <div class="col-12">
     <div class="form-check">

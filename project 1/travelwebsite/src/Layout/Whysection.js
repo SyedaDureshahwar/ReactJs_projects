@@ -6,7 +6,7 @@ const Whysection = () => {
   return (
     <>
     
-    <div className='container-fluid whybg pt-5  pb-5'>
+    <div  id="explore" className='container-fluid whybg pt-5  pb-5'>
        <div className='row justify-content-center'>
         <div className='col-md-9 '>
             <h2 className='text-white ms-2 mb-3 text-center'>Why Camper?</h2>

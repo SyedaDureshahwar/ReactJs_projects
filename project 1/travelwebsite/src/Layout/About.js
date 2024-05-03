@@ -5,7 +5,7 @@ const About = () => {
   return (
     <>
     
-    <div className='container-fluid aboutbg pt-5  pb-5'>
+    <div id="about" className='container-fluid aboutbg pt-5  pb-5'>
        <div className='row justify-content-between'>
         <div className='col-md-5 '>
             <h2 className='text-white ms-2 mb-3'>About us</h2>

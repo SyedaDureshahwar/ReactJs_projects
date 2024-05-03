@@ -6,7 +6,7 @@ import Header from '../Components/Header'
 const Heroheader = () => {
   return (
     <>
-    <div className='container-fluid bgherosection'>
+    <div id="/" className='container-fluid bgherosection'>
 
 <Header></Header>
 

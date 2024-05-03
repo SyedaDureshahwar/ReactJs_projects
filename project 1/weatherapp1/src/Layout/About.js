@@ -4,7 +4,7 @@ import groupimageabout from "./groupimageabout.jpg"
 const About = () => {
   return (
     <>
-    < div className='container mt-5'>
+    < div id="about" className='container mt-5' >
       <div className='row'>
       <div className='col-md-6'>
       <div className="about-img">

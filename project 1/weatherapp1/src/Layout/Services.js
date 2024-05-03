@@ -6,7 +6,7 @@ const Services = () => {
     <>
 
 
-    <div className='container mt-5 mb-5 '>
+    <div id="services" className='container mt-5 mb-5 ' >
     <h2 className='text-center mb-3 text-dark'>Our Services</h2>
         
         

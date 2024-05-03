@@ -1,0 +1,21 @@
+.bgherosection{
+    background-image: url("C:\react\project 1\travelwebsite\src\images\Rectangle 1.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.bg-section{
+    padding-top: 100px;
+}
+@media  (maxHeight:520px) {
+    .bgherosection{
+        background-image: url("C:\react\project 1\travelwebsite\src\images\Rectangle 1.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        height: 400px;
+    }
+    .bg-section{
+        padding-top: 40px;
+    }
+    
+}

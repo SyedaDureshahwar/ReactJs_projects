@@ -1,0 +1,35 @@
+.navbar-brand{
+    font-weight: bolder;
+    font-size: 2rem;
+    color: white;
+}
+.nav-item a{
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: white!important;
+}
+
+.usuer span{
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: white;
+}
+.usuer i{
+    font-size: larger;
+    color: white;
+}
+.nav-item a:hover{
+    color: #FCEA9C!important;
+    border-bottom: 2px solid #FCEA9C ;
+    
+}
+.usuer span:hover{
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: #FCEA9C!important;
+    border-bottom: 2px solid #FCEA9C ;
+}
+.usuer i:hover{
+    font-size: larger;
+    color: #FCEA9C!important;
+}

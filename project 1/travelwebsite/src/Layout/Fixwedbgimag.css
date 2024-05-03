@@ -1,0 +1,32 @@
+
+.Fixwedbgimag{
+    background-image: url("C:\react\project 1\travelwebsite\src\images\Rectangle 6.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 30px;
+
+}
+.Fixwedbgimagbtn{
+   
+    background-color:#FCEA9C;
+    color: black;
+    height: 60px;
+    width: 220px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 1rem;
+    border: 1px solid white;
+}
+.Fixwedbgimagbtn:hover{
+    background-color: black;
+    color: #FCEA9C;
+    height: 60px;
+    width: 220px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 1rem;
+    border: 1px solid white;
+}

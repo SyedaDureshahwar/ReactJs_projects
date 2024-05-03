@@ -1,0 +1,39 @@
+.activelink{
+    color: #1679AB!important;
+    font-size: 20px;
+}
+.nav-item a {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav-item a:hover{
+    color:  #1679AB;
+    font-size: 20px;
+}
+.nav-bg{
+    background-color: white;
+    height: 80px;
+    
+}
+.btn{
+    background-color:  #1679AB!important;
+    font-size: 20px;
+    border: 2px solid#ffffff!important; 
+    color:#ffffff;
+    font-weight: 400;
+    border-radius: 25px;
+    outline: 2px solid #ffffff;
+}
+.btn:hover{
+    background-color:#ffffff!important;
+    font-size: 20px;
+    border: 2px solid #1679AB!important; 
+    color:  #1679AB!important;
+    font-weight: 400;
+}
+.navimage{
+    height: 70px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}

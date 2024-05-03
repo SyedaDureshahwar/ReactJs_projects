@@ -1,0 +1,8 @@
+.box{
+    height: 100px;
+    background-color: #1679AB;
+    border-radius: 20px;
+}
+.boxchild{
+    border: 1px solid white;
+} 

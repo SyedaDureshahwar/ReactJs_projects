@@ -1,0 +1,14 @@
+.bgfooter{
+    background-color:  #153448;
+}
+.afoot a{
+    text-decoration: none;
+}
+.text-blue {
+   color:  #ffffff!important;
+}
+.nav-item{
+    color:  #ffffff!important;
+    text-decoration: none;
+    font-weight: 500!important;
+}

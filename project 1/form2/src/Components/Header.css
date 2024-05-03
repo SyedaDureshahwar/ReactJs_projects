@@ -1,0 +1,19 @@
+.Header{
+     
+    height: 150px;
+     background-color: rgb(117, 81, 150);
+     z-index:-1;
+ }
+ .Header h1{
+     color: white;
+     font-weight: 600;
+     font-size: 40px;
+ 
+ }
+ .Header p{
+     color: white;
+     font-weight: 600;
+     font-size: 20px;
+     position: relative;
+     
+ }

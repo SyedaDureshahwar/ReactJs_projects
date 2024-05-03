@@ -1,0 +1,71 @@
+.bg{
+    background-image: url("C:\react\project 1\form1\src\Components\thunderstorm-3440450_1920.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+   
+}
+.form-background{
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(15px); 
+    width:500px;
+    padding: 25px;
+    border-radius: 25px;
+    color: aliceblue;
+}
+@media (max-width:550px) {
+    .form-background{
+      
+        width:300px;
+        padding: 25px;
+        border-radius: 25px;
+        color: aliceblue;
+    }
+}
+.formheading{
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.forgotpassword{
+    color: rgb(65, 65, 234);
+    text-decoration: underline rgb(65, 65, 234);
+}
+.btn-sign{
+    background-color: rgb(26, 27, 27);
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-weight: 300;
+    padding: 5px 15px;
+    margin-left: 10px;
+    border-color:  rgb(255, 255, 255);
+    border-radius: 25px;
+}
+.btn-sign:hover{
+    background-color:   rgb(255, 255, 255);
+    color: rgb(26, 27, 27);
+    font-size: 10px;
+    font-weight: 300;
+    padding: 5px 15px;
+    margin-left: 10px;
+    border-color:  rgb(26, 27, 27);
+    border-radius: 25px;
+}
+
+.grey{
+    background-color: #EAEAEA;
+    color: #676767;
+}
+.flexalign{
+    margin-top: 30px;
+    margin-left: 225px;
+}
+
+
+
+
+
+
+

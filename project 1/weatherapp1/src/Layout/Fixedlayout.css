@@ -1,0 +1,26 @@
+.formfiled{
+    padding: 10px 5px ;
+    border-radius: 20px;
+    border: 2px solid #1679AB!important; 
+}
+.formfiled:focus{
+    padding: 10px 5px ;
+    border-radius: 20px;
+    border: 2px solid #1679AB!important; 
+    outline:none;
+}
+.tophead{
+    color:#ffffff;
+}
+p{
+    color:#ffffff;
+}
+
+.fixedlayoutbg{
+    background-image:  linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("C:\react\project 1\weatherapp1\src\Layout\groupimageabout.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    background-attachment: fixed;
+}

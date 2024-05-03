@@ -1,0 +1,80 @@
+.bg{
+    background-image: url("C:\react\project 1\form1\src\Form2\ocean-8408693_1920.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+   
+   
+   
+}
+.overlay {
+    height: 100%;
+    background-image: linear-gradient(to bottom, rgba(255, 238, 0, 0.4), rgba(255, 20, 20, 0.5)); /* Adjust opacity and colors as needed */
+   
+  }
+.formcard{
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(15px); 
+    width:500px;
+    padding: 35px;
+    border-radius: 25px;
+    color: rgb(0, 0, 0);
+}
+@media (max-width:550px) {
+    .formcard{
+        
+        width:300px;
+        padding: 25px;
+        border-radius: 25px;
+        color: rgb(0, 0, 0);
+    }
+}
+i{
+    position: relative;
+    top: -30px;
+    left:-25px;
+}
+
+.formheading{
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.forgotpassword{
+    color: rgb(65, 65, 234);
+    text-decoration: underline rgb(65, 65, 234);
+}
+.btn-sign{
+    background-color: rgb(26, 27, 27);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px 15px;
+    margin-left: 10px;
+    border-color:  rgb(255, 255, 255);
+    border-radius: 25px;
+}
+.btn-sign:hover{
+    background-color:   rgb(255, 255, 255);
+    color: rgb(26, 27, 27);
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px 15px;
+    margin-left: 10px;
+    border-color:  rgb(26, 27, 27);
+    border-radius: 25px;
+}
+
+.grey{
+    background-color: #EAEAEA;
+    color: #676767;
+}
+
+
+
+
+
+
+

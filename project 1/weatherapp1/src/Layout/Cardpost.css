@@ -1,0 +1,10 @@
+.card-img img{
+    height: 400px;
+    clip-path: circle(50% at 50% 50%);
+}
+.bg-card {
+background-image: url("C:\react\project 1\weatherapp1\src\Layout\blobcard.svg");
+background-position: center center;
+background-repeat: no-repeat;
+height: 400px;
+}

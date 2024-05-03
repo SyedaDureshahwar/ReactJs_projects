@@ -1,0 +1,26 @@
+.formfiled1{
+    padding: 10px 5px ;
+    border-radius: 20px;
+    border: 2px solid #1679AB!important; 
+}
+.formfiled1:focus{
+    padding: 10px 5px ;
+    border-radius: 20px;
+    border: 2px solid #1679AB!important; 
+    outline:none;
+}
+.tophead1{
+    color:#ffffff;
+}
+p{
+    color:#ffffff;
+}
+
+.fixedlayoutbg1{
+    background-image:  linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("C:\react\project 1\weatherapp1\src\Layout\street-travel-downtown-office-cloud.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    background-attachment: fixed;
+}

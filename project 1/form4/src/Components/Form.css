@@ -1,0 +1,117 @@
+.bgbody{
+    background-color:rgb(124, 124, 238);
+   
+  
+    height: 100vh;
+    
+  
+}
+.cardform{
+    
+    height: 500px;
+    width: 800px;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-image: url("C:\react\project 1\form4\src\Components\image1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+@media (max-width:997px) {
+    .cardform{
+    
+        height: 500px;
+        width: 700px;
+        margin: auto;
+        border-radius: 10px;
+        border: 1px solid black;
+        background-image: url("C:\react\project 1\form4\src\Components\image1.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+}
+@media (max-width:768px) {
+    .cardform{
+    
+        height:  500px;
+        width: 500px;
+        margin: auto;
+        border-radius: 10px;
+        border: 1px solid black;
+        background-image: url("C:\react\project 1\form4\src\Components\image1.jpg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    .left{
+        display: none;
+     }
+     .right{
+   
+     margin-left: 10px;
+     height: 80%!important;
+     width: 100%;
+     border-radius: 10px;
+             background-color:rgb(255, 255, 255);
+       }
+}
+@media (max-width:525px) {
+    .cardform{
+    
+        height:  500px;
+        width: 300px;
+        
+        border-radius: 10px;
+        border: 1px solid black;
+        background-color: white;
+    }
+    .left{
+        
+       display:none;
+    }
+    .right{
+    
+    height: 90%;
+    width: 100%;
+    border-radius: 10px;
+            background-color:rgb(255, 255, 255);
+      }
+}
+.row{
+    height: 100%;
+   width: 100%;
+    
+}
+.cardcon{
+    height: 100%;
+    width: 100%;
+}
+.left{
+    height: 100%;
+    width: 100%;
+   
+   
+}
+.right{
+    
+    height: 98%;
+   width: 100%;
+   border-radius: 10px;
+    background-color:rgb(255, 255, 255);
+  }
+.btn{
+    padding: 5px 15px;
+    width: 150px;
+    background-color: rgb(113, 71, 152);
+color:white;
+font-weight: 500;
+  }
+.btn:hover{
+    padding: 5px 15px;
+    width: 150px;
+    background-color: white;
+color:rgb(113, 71, 152);
+border: 2px solid rgb(113, 71, 152);
+  }

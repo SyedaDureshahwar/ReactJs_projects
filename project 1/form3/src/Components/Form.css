@@ -1,0 +1,54 @@
+.body{
+    background-image: url("C:\react\project 1\form3\src\Components\10701730_19187761.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: 100% 100%;
+}
+.headerh4{
+    color: red;
+}
+.headerh1{
+    color: white;
+
+}
+.headerp{
+color:grey;
+}
+.btn{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px 15px;
+    width: 150px;
+    background:linear-gradient(120deg,rgb(123, 36, 123),rgb(50, 47, 47),rgb(63, 63, 254));
+}
+.bgform{
+    background-color: white;
+   width:500px;
+   padding: 30px;
+   border-radius: 10px;
+}
+@media (max-width:525px) {
+    .bgform{
+        background-color: white;
+       width:200px;
+       padding: 30px;
+       border-radius: 10px;
+    }
+}
+div .form-control{
+    border:1px solid rgb(123, 36, 123);
+}
+div .form-control:focus{
+   outline:1px solid rgb(0, 0, 0);
+   box-shadow:0px 0px 10px rgb(123, 36, 123) ;
+}
+textarea{
+    border:1px solid rgb(123, 36, 123);
+    width: 100%;
+}
+textarea:focus{
+    outline:1px solid rgb(0, 0, 0);
+    box-shadow:0px 0px 10px rgb(123, 36, 123) ;
+ }

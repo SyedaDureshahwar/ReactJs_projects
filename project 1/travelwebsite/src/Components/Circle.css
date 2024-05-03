@@ -1,0 +1,11 @@
+.circles{
+    border-radius: 100%;
+    border: 2px solid  #FCEA9C;
+    height: 151px;
+    width: 161px;
+}
+.cardcircle{
+    height: 250px;
+    width: 170px;
+    margin: auto;
+}

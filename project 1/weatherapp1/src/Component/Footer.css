@@ -1,0 +1,21 @@
+.bg-footer{
+    padding: 40px 0px;
+    background-color:  #1679AB;
+    margin-top: 100px;
+}
+
+h5{
+    color:  #000000;
+    font-weight: 700;
+}
+
+.footerlogo img{
+    height: 200px;
+}
+.rightctnfooter{
+    padding-top: 50px;
+}
+.addres{
+    font-size: 1rem;
+    font-weight: 700;
+}

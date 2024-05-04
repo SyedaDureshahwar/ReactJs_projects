@@ -7,7 +7,7 @@ const Contact = () => {
     return (
         <>
         <br></br> <br></br>
-        <h1 id="contact" className='text-danger text-center fw-bold'>Contact Us</h1>
+        <h1 id="contact" className='text-red text-center fw-bold'>Contact Us</h1>
         <div className='container text-light' style={{width:"600px"}}>
         <form class="row g-3 border border-danger p-3 mt-5" onSubmit={contatform}>
   <div class="col-md-6">
@@ -52,7 +52,7 @@ const Contact = () => {
     </div>
   </div>
   <div class="col-12">
-    <button type="submit" class="btn btn-danger px-5 py-2">Sign in</button>
+    <button type="submit" class="btn text-light buuton-red px-5 py-2">Sign in</button>
   </div>
 </form>
 </div> 

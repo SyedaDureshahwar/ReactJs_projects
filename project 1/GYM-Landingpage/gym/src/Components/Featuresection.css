@@ -19,3 +19,9 @@
     height: 410px;
     border-radius: 10px;
 }
+.text-red{
+    color: red;
+}
+.buuton-red{
+    background-color: red;
+}

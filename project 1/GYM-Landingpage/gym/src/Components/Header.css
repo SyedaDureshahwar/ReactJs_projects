@@ -1,0 +1,13 @@
+a:hover {
+    border-bottom: groove;
+   
+    border-color: red;
+    border-width: 1px;
+    
+    transition: all 1s;
+}
+
+a {
+    padding-left: 50px;
+    padding-right: 50px;
+}

@@ -1,0 +1,21 @@
+.btn-section{
+    background-color: red;
+    color: white;
+    width: 50%;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    border: 1px white groove;
+    margin-top: 15px;
+}
+
+.btn-section:hover{
+    background-color: black;
+    color: red;
+    border: 1px white groove;
+
+}
+.imgsection img{
+    height: 410px;
+    border-radius: 10px;
+}

@@ -1,0 +1,42 @@
+@media screen and(max-width:400px) {
+  .bgimage {
+
+    height: 300px;
+
+
+  }
+}
+
+.bgimage {
+  background-image: url('../images/banner.png');
+  height: 550px;
+  width: 100%;
+  background-size: cover;
+  
+}
+
+
+.contentpose {
+ margin: auto;
+ position: relative;
+ top: 50px;
+
+}
+
+
+.buttonactive1 {
+  border: 1px white groove;
+  border-radius: 10px;
+  width: 250px;
+  background-color: red;
+  color: white;
+}
+
+.buttonactivehover1:hover {
+  background-color: black;
+  color: red;
+}
+
+.bannerbg {
+  text-shadow: 0px 0px 150px red;
+}

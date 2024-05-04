@@ -1,0 +1,14 @@
+.bgicon {
+    color: white;
+    font-size: 30px;
+    background-color: red;
+    border-radius: 100%;
+    padding: 30px;
+}
+.bgicon:hover {
+    background-color: rgb(255, 255, 255);
+    border-radius: 100%;
+    padding: 30px;
+    color: rgb(255, 0, 0);
+    transition: all 1s ease-out;
+}

@@ -1,0 +1,31 @@
+.posterimg1 {
+  background-image: url('../images/offer.png');
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.contentpose1 {
+  margin: auto;
+  position: relative;
+  top: 30px;
+}
+
+.buttonactive1 {
+  border: 1px white groove;
+  
+  border-radius: 10px;
+  width: 250px;
+  background-color: red;
+  color: white;
+}
+
+.buttonactivehover1:hover {
+  background-color: black;
+  color: red;
+}
+
+.bannerbg {
+  text-shadow: 0px 0px 80px red;
+}
